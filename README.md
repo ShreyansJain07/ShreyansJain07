@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LangGraph and LangChain**
 
-- 👯 I’m looking to collaborate on **agentic AI and autonomous systems.**
+- 🤝 I’m looking to collaborate on **agentic AI and autonomous systems.**
 
 - 💬 Ask me about **full-stack development**
 
